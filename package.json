@@ -1,0 +1,18 @@
+{
+  "name": "tracking-ranter",
+  "version": "1.0.0",
+  "description": "This discord bot detects tracking tokens in URL's that are sent by users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "steeapy",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0"
+  }
+}
